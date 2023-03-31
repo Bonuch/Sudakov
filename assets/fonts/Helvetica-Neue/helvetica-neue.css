@@ -1,0 +1,23 @@
+@font-face {
+    font-family: 'Helvetica Neue';
+    font-style: normal;
+    font-weight: 300;
+    src: local(''),
+    url('HelveticaNeueCyr-Light.woff2') format('woff2'); /* Chrome 26+, Opera 23+, Firefox 39+ */
+}
+
+@font-face {
+    font-family: 'Helvetica Neue Roman';
+    font-style: normal;
+    font-weight: 400;
+    src: local(''),
+    url('HelveticaNeueCyr-Roman.woff2') format('woff2'); /* Chrome 26+, Opera 23+, Firefox 39+ */
+}
+
+@font-face {
+    font-family: 'Helvetica Neue Bold';
+    font-style: normal;
+    font-weight: 700;
+    src: local(''),
+    url('HelveticaNeueCyr-Bold.woff2') format('woff2'); /* Chrome 26+, Opera 23+, Firefox 39+ */
+}

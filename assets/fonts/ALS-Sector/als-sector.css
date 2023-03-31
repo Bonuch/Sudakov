@@ -1,0 +1,15 @@
+@font-face {
+    font-family: 'ALS Sector Regular';
+    font-style: normal;
+    font-weight: 400;
+    src: local(''),
+    url('ALS-sector-regular-regular.woff2') format('woff2'); /* Chrome 26+, Opera 23+, Firefox 39+ */
+}
+
+@font-face {
+    font-family: 'ALS Sector Bold';
+    font-style: normal;
+    font-weight: 600;
+    src: local(''),
+    url('ALS-sector-bold-bold.woff2') format('woff2'); /* Chrome 26+, Opera 23+, Firefox 39+ */
+}

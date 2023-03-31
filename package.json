@@ -1,0 +1,62 @@
+{
+    "name": "nuxt-template",
+    "version": "1.0.0",
+    "private": true,
+    "engines": {
+        "node": "^14"
+    },
+    "scripts": {
+        "dev": "nuxt",
+        "build": "nuxt build",
+        "start": "nuxt start",
+        "generate": "nuxt generate"
+    },
+    "dependencies": {
+        "@nuxtjs/axios": "^5.12.2",
+        "@nuxtjs/dayjs": "^1.4.0",
+        "@nuxtjs/dotenv": "^1.4.0",
+        "@popperjs/core": "^2.9.2",
+        "@tailwindcss/aspect-ratio": "^0.2.0",
+        "@tailwindcss/line-clamp": "^0.2.0",
+        "autoprefixer": "^9",
+        "cookie-universal-nuxt": "^2.1.5",
+        "core-js": "^3.10.1",
+        "currency-formatter": "^1.5.7",
+        "nuxt": "^2.14.12",
+        "postcss": "^7.0.32",
+        "v-calendar": "2.3.0",
+        "v-click-outside": "^3.0.1",
+        "v-mask": "^2.2.4",
+        "v-select": "0.0.1",
+        "vee-validate": "^3.4.10",
+        "vue-select": "^3.16.0"
+    },
+    "devDependencies": {
+        "@aceforth/nuxt-optimized-images": "^1.4.0",
+        "@nuxt/types": "^2.14.9",
+        "@nuxtjs/eslint-config": "^3.1.0",
+        "@nuxtjs/eslint-module": "^2.0.0",
+        "@nuxtjs/tailwindcss": "^4.0.3",
+        "babel-eslint": "^10.1.0",
+        "eslint": "^7.10.0",
+        "eslint-config-prettier": "^6.12.0",
+        "eslint-plugin-nuxt": "^1.0.0",
+        "eslint-plugin-prettier": "^3.1.4",
+        "imagemin-gifsicle": "^7.0.0",
+        "imagemin-mozjpeg": "^9.0.0",
+        "imagemin-pngquant": "^9.0.2",
+        "imagemin-svgo": "^9.0.0",
+        "node-sass": "^4.14.1",
+        "prettier": "^2.1.2",
+        "responsive-loader": "^2.3.0",
+        "sass-loader": "^10.1.1",
+        "sharp": "^0.27.2",
+        "sqip-loader": "^1.0.0",
+        "webp-loader": "^0.6.0"
+    },
+    "browserslist": [
+        "last 2 years",
+        "> 1%",
+        "not dead"
+    ]
+}
